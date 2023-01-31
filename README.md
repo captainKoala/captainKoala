@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantin (@captainKoala)
-- 👀 I’m interested in backends development with Python, Django and Django Rest Framework
-- 🌱 I’m currently learning Django Rest Framework
+- I work as Odoo developer
+- 👀 I’m interested in backends development with Python
 
 
 <!---
